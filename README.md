@@ -16,7 +16,7 @@ Script to change the name of Gantry 5 theme. Tested under Python 2.7, Linux.
 
 
 
-Example:
+Usage example:
 ====
 
-    python hydrogen_renamer.py wordpress-tpl_g5_hydrogen_v5.2.2.zip hydrogen helium
+    $ python hydrogen_renamer.py wordpress-tpl_g5_hydrogen_v5.2.2.zip hydrogen helium
