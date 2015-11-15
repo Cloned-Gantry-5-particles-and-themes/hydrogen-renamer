@@ -1,5 +1,5 @@
 # hydrogen-renamer
-Script to change the name of Gantry 5 theme
+Script to change the name of Gantry 5 theme. Tested under Python 2.7, Linux.
 
     usage: hydrogen_renamer.py [-h] theme_zipfile old_name new_name
     
